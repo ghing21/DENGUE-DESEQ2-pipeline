@@ -1,0 +1,35 @@
+"sample","title","disease","condition","donor","replicate","lib_size","genes_detected"
+"GSM6259998","HC1","healthy","Healthy","HC1","a",12257336,23165
+"GSM6259999","HC1b","healthy","Healthy","HC1","b",22627118,14159
+"GSM6260000","HC1c","healthy","Healthy","HC1","c",18387545,14737
+"GSM6260001","HC2","healthy","Healthy","HC2","a",4300745,26650
+"GSM6260002","HC2b","healthy","Healthy","HC2","b",17545260,15634
+"GSM6260003","HC2c","healthy","Healthy","HC2","c",19253217,14350
+"GSM6260004","HC3","healthy","Healthy","HC3","a",16273029,15827
+"GSM6260005","HC3b","healthy","Healthy","HC3","b",23882903,15723
+"GSM6260006","HC3c","healthy","Healthy","HC3","c",18358338,15703
+"GSM6260007","HC4","healthy","Healthy","HC4","a",3257405,22277
+"GSM6260008","HC4b","healthy","Healthy","HC4","b",11066875,18032
+"GSM6260009","HC4c","healthy","Healthy","HC4","c",15720460,17085
+"GSM6260010","DF1","dengue fever","DF","DF1","a",18249678,14207
+"GSM6260011","DF1b","dengue fever","DF","DF1","b",20707413,14984
+"GSM6260012","DF1c","dengue fever","DF","DF1","c",26910979,12681
+"GSM6260013","DF2","dengue fever","DF","DF2","a",15813028,17824
+"GSM6260014","DF2b","dengue fever","DF","DF2","b",18346396,18743
+"GSM6260015","DF2c","dengue fever","DF","DF2","c",15965460,16805
+"GSM6260016","DF3","dengue fever","DF","DF3","a",18972720,18138
+"GSM6260017","DF3b","dengue fever","DF","DF3","b",20033804,18990
+"GSM6260018","DF3c","dengue fever","DF","DF3","c",24554814,16007
+"GSM6260019","DF4","dengue fever","DF","DF4","a",12605423,21907
+"GSM6260020","DF4b","dengue fever","DF","DF4","b",22343160,18393
+"GSM6260021","DHF1c","dengue hemorrhagic fever","DHF","DHF1","c",22094388,15770
+"GSM6260022","DHF1","dengue hemorrhagic fever","DHF","DHF1","a",23126798,16038
+"GSM6260023","DHF1b","dengue hemorrhagic fever","DHF","DHF1","b",27464439,14423
+"GSM6260024","DHF2c","dengue hemorrhagic fever","DHF","DHF2","c",12015053,17610
+"GSM6260026","DHF2b","dengue hemorrhagic fever","DHF","DHF2","b",2320963,24595
+"GSM6260027","DHF3c","dengue hemorrhagic fever","DHF","DHF3","c",36490208,15770
+"GSM6260028","DHF3","dengue hemorrhagic fever","DHF","DHF3","a",16925562,17522
+"GSM6260029","DHF3b","dengue hemorrhagic fever","DHF","DHF3","b",21861841,17938
+"GSM6260030","DHF4c","dengue hemorrhagic fever","DHF","DHF4","c",18470129,13476
+"GSM6260031","DHF4","dengue hemorrhagic fever","DHF","DHF4","a",17883669,17152
+"GSM6260032","DHF4b","dengue hemorrhagic fever","DHF","DHF4","b",24014701,18485

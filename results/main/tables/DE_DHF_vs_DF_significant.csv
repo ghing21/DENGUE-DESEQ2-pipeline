@@ -1,0 +1,2 @@
+"GeneID","Symbol","Description","GeneType","EnsemblGeneID","baseMean","log2FoldChange","lfcSE","log2FC_unshrunk","stat","pvalue","padj"
+"3399","ID3","inhibitor of DNA binding 3","protein-coding","ENSG00000117318",119.23606193034,5.64479474706623,1.0796969766176,6.04982408952134,5.75843059988979,8.48995581951373e-09,0.000149380772644344

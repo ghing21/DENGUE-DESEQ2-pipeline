@@ -1,0 +1,6 @@
+*.gz
+*.rds
+.Rhistory
+.Rhistory
+.RData
+.Rproj.user/
